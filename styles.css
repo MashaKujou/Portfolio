@@ -113,7 +113,7 @@ header {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-image: url('/images/profile.png');
+    background-image: url('images/profile.png');
     background-size: cover;
     background-position: center 10%;
     margin: 0 auto 20px;
