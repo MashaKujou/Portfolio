@@ -418,7 +418,7 @@ nav ul li a:hover, nav ul li a.active {
     gap: 30px;
 }
 
-.contact-info-section, .contact-form-section {
+.contact-info-section{
     flex: 1;
     min-width: 300px;
 }
@@ -468,17 +468,6 @@ nav ul li a:hover, nav ul li a.active {
 .social-links a:hover {
     background-color: white;
     color: var(--primary-color);
-}
-
-.contact-form-section {
-    background-color: white;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: var(--shadow);
-}
-
-.contact-form-section h3 {
-    margin-bottom: 30px;
 }
 
 .form-group {
